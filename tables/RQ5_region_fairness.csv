@@ -1,0 +1,5 @@
+Scenario,n_test,Accuracy,F1,Recall
+Within Bejaia,37,0.973,0.971,0.944
+Within Sidi-Bel Abbes,37,0.973,0.979,0.958
+Train Bejaia -> Test Sidi-Bel Abbes,121,0.992,0.994,0.987
+Train Sidi-Bel Abbes -> Test Bejaia,122,0.975,0.975,1.0

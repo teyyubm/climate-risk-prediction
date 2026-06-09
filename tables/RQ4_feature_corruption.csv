@@ -1,0 +1,11 @@
+Feature,F1_when_corrupted,F1_Drop
+ISI,0.963,0.025
+FFMC,0.964,0.024
+RH,0.988,0.0
+Temperature,0.988,0.0
+Rain,0.988,0.0
+Ws,0.988,0.0
+DMC,0.988,0.0
+DC,0.988,0.0
+BUI,0.988,0.0
+FWI,1.0,-0.012

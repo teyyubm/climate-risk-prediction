@@ -1,0 +1,11 @@
+Feature,Mean_abs_SHAP
+FFMC,0.1674
+ISI,0.1573
+FWI,0.0946
+DC,0.0299
+BUI,0.0147
+DMC,0.014
+Rain,0.0123
+RH,0.0025
+Temperature,0.002
+Ws,0.001
